@@ -253,27 +253,7 @@ MIT
 ---
 
 ## 👨‍💻 Author
+Arpit Yadav
 
 **Smart Queue & QR-Based Verification System**
-
-Built to demonstrate **FAANG-level system design**, backend correctness, and scalable architecture principles.
-
-```
-
----
-
-### 🔥 Why this README works for FAANG
-- Focuses on **trade-offs**
-- Highlights **complexity analysis**
-- Shows **scaling path**
-- Demonstrates **correctness & safety**
-- Reads like a **design doc**, not a tutorial
-
-If you want next:
-- 📌 **System Design Diagram (FAANG style)**
-- 📌 **Interview one-pager summary**
-- 📌 **“How I’d scale to 1M users” section**
-- 📌 **Resume bullet points**
-
-Say the word 👌
 ```
