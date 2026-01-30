@@ -1,11 +1,3 @@
-Love it — FAANG-style means **concise, signal-heavy, design-focused, zero fluff**.
-Below is a **FAANG-interview-ready `README.md`**, optimized for **clarity, architecture, scalability, and trade-offs**.
-
-👉 **Copy–paste this directly into `README.md`**
-
----
-
-```md
 # 🛒 Smart Queue & QR-Based Verification System
 
 > **FAANG-Style | Production-Oriented Full-Stack System Design Project**
