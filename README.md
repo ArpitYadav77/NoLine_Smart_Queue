@@ -1,7 +1,5 @@
 # 🛒 Smart Queue & QR-Based Verification System
 
-> **FAANG-Style | Production-Oriented Full-Stack System Design Project**
-
 A scalable queue management and QR-based verification system built to optimize billing and exit flow in large retail environments.  
 Designed with **performance, scalability, and correctness** as first-class concerns.
 
